@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>xringxie</title>
-  
+  <subtitle>冷静 &amp; 思考</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://xringxie.com/"/>
-  <updated>2016-08-04T08:10:13.000Z</updated>
+  <updated>2016-09-15T06:30:55.000Z</updated>
   <id>http://xringxie.com/</id>
   
   <author>
@@ -16,29 +16,52 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Hello World</title>
-    <link href="http://xringxie.com/2016/08/04/hello-world/"/>
-    <id>http://xringxie.com/2016/08/04/hello-world/</id>
-    <published>2016-08-04T08:10:13.000Z</published>
-    <updated>2016-08-04T08:10:13.000Z</updated>
+    <title>在IBM的两个月</title>
+    <link href="http://xringxie.com/2016/two-months-at-ibm/"/>
+    <id>http://xringxie.com/2016/two-months-at-ibm/</id>
+    <published>2016-09-15T05:35:11.000Z</published>
+    <updated>2016-09-15T06:30:55.000Z</updated>
     
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="external">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="external">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="external">GitHub</a>.</p>
-<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo new <span class="string">"My New Post"</span></div></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="external">Writing</a></p>
-<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo server</div></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="external">Server</a></p>
-<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo generate</div></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="external">Generating</a></p>
-<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo deploy</div></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="external">Deployment</a></p>
+    <content type="html"><![CDATA[<p>I’m working on it now.</p>
 ]]></content>
     
     <summary type="html">
     
-      &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
+      &lt;p&gt;I’m working on it now.&lt;/p&gt;
+
     
     </summary>
     
+    
+      <category term="Work" scheme="http://xringxie.com/tags/Work/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>写下的第一篇</title>
+    <link href="http://xringxie.com/2016/first/"/>
+    <id>http://xringxie.com/2016/first/</id>
+    <published>2016-09-14T15:46:38.000Z</published>
+    <updated>2016-09-15T06:30:01.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>坐着好好回想了一会：应该写下过很多“第一篇”，但却很少坚持写下了第二篇更别说第三篇第四篇…这算不算是后知后觉？浮躁的日子过了太久，该好好的让自己静下心来该好好的思考了。决定从博客做起：坚持写文章不是一件容易的事，算是给自己一个挑战吧。</p>
+<h3 id="问题"><a href="#问题" class="headerlink" title="问题"></a>问题</h3><p>不止一次的想过这个问题：到底是什么让我变得如此浮躁？也许整天面对着各种电子设备有一些责任，但更多的应该是我自身的习惯。改掉一个不好的习惯需要一些时间更多的是需要坚持，那么就好好的坚持下去。</p>
+<h3 id="从哪里起步？"><a href="#从哪里起步？" class="headerlink" title="从哪里起步？"></a>从哪里起步？</h3><p>两个月的工作中，发现自己对 <code>Linux</code> 的世界认识还是太少了，正好 <a href="http://www.ituring.com.cn/book/1698" target="_blank" rel="external">Linux命令行与shell脚本编程大全（第3版）</a> 上市了。这本书的第二版给我带来了很多知识，但没能好好细读。就让重读第三版作为第一步吧～</p>
+<h3 id="怎么办？"><a href="#怎么办？" class="headerlink" title="怎么办？"></a>怎么办？</h3><p>又想起了当时学习 <code>Scala</code> 的场景：缺少资料，尤其是中文资料。但能怎么办？放弃吗？肯定不行！那怎么办？英语再烂也咬牙拿起文档一页页的读 – 唯有坚持。</p>
+<blockquote>
+<p>一直很清醒，我没有过人的天赋也没有良好的资源。能做的，只有坚持。</p>
+</blockquote>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;坐着好好回想了一会：应该写下过很多“第一篇”，但却很少坚持写下了第二篇更别说第三篇第四篇…这算不算是后知后觉？浮躁的日子过了太久，该好好的让自己静下心来该好好的思考了。决定从博客做起：坚持写文章不是一件容易的事，算是给自己一个挑战吧。&lt;/p&gt;
+&lt;h3 id=&quot;问题&quot;&gt;&lt;a 
+    
+    </summary>
+    
+    
+      <category term="Life" scheme="http://xringxie.com/tags/Life/"/>
     
   </entry>
   
